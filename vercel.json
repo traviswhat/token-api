@@ -1,8 +1,7 @@
 {
   "functions": {
     "api/register.js": {
-      "memory": 128,
-      "maxDuration": 10
+      "runtime": "nodejs18.x"
     }
   }
 }
